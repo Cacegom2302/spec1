@@ -35,11 +35,11 @@ La aplicacion es una herramienta de linea de comando (CLI) escrita en lenguaje p
 5. El sistema cmprueba si existe un contacto con el mismo telefono.
 6. El sistema inserta el contacto en la base de datos y te muestra el id con los datos del contacto
 
-**Flujo alternativo A Validadcion
+**Flujo alternativo A Validadcion**
   - El sistema muestra un mesaje de error y solicita corregir el error
-**Flujo alternatico B validacion correcta
+**Flujo alternatico B validacion correcta**
   - El sistema inserta los datos en la base de datos
-**Flujo alternatico C contacto duplicado
+**Flujo alternatico C contacto duplicado**
   - El sistema nos advierte de que existe el contacto y pide confirmacion de guardado
 
 ###CU-02: Ver Contacto
