@@ -19,4 +19,9 @@ La aplicacion es una herramienta de linea de comando (CLI) escrita en lenguaje p
 | Campo | tipo | Obligatorio | Descripcion |
 |-------|------|-------------|-------------|
 |"id"   |INT AUTOINCREMENT| SI | Identificador unico |
-|
+| name  |VACHAR(100) | Si | Nombre contacto |   
+| surname  |VACHAR(100) | Si | Apellido contacto | 
+| TEL1  |INTEGER | Si | Telefono 1 contacto | 
+| TEL2  |INTEGER | No | Telefono 2 contacto | 
+| Email  | VARCHAR(50)| No | Email  contacto | 
+| Note | TEXT(100) | No | Informacion del contacto|
