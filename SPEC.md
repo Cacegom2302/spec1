@@ -1,0 +1,1 @@
+# spec.md - Esopecificacion funcional #
