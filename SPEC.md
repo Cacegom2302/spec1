@@ -53,4 +53,11 @@ La aplicacion es una herramienta de linea de comando (CLI) escrita en lenguaje p
 1. El usuario selecciona "El contacto"
 
 ###CU-04: Editar contacto
+
 ###CU-05: Listar Contacto
+##5. Reglas de validadcion
+
+##6. Requisitos no funcionales
+[X]Hecho
+
+##7.Mensaje de error estandar
