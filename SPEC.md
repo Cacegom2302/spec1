@@ -59,6 +59,5 @@ La aplicacion es una herramienta de linea de comando (CLI) escrita en lenguaje p
 ##5. Reglas de validadcion
 
 ##6. Requisitos no funcionales
--[X]Hecho
 
 ##7.Mensaje de error estandar
