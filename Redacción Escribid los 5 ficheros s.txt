@@ -1,0 +1,3 @@
+Redacción: Escribid los 5 ficheros sin contradicciones.
+Prompting: Subid los ficheros con el comando: "Analiza estos 5 ficheros de especificación... genera el código Python necesario..."
+Validación: Ejecutad el código. Si hay errores, corregid el fichero SPEC, no el código a mano.
